@@ -54,4 +54,4 @@ Building a basic Autonomous Cyber Reasoning System (CRS) involves creating a sim
 - **Documentation:** Document the setup, configuration, and operation of your CRS.
 - **Training:** Train staff on how to interact with the CRS and interpret its outputs.
 
-Building a basic CRS is an ongoing process that involves continuous refinement and adaptation to new threats. Start small and gradually expand the system's capabilities as you gain more insights and experience.
+
